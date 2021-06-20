@@ -1,12 +1,12 @@
 {
-  "name": "traingjs",
+  "name": "goit-js-hw-09-gallery",
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://TetianaZelena.github.io/traingjs",
+  "homepage": "https://TetianaZelena.github.io/goit-js-hw-09-gallery",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /traingjs/"
+    "build": "parcel build src/*.html --public-url /goit-js-hw-09-gallery/"
   },
   "repository": {
     "type": "git",
@@ -16,7 +16,7 @@
   "author": "Tetiana Zelena <tanydans@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/TetianaZelena/traingjs/issues"
+    "url": "https://github.com/TetianaZelena/goit-js-hw-09-gallery/issues"
   },
   "devDependencies": {
     "parcel-bundler": "^1.12.5",
